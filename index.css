@@ -1,0 +1,121 @@
+
+body{
+    margin: 10px;
+}
+.imagem1{
+    border-radius: 20px;
+}
+
+.imagem2{
+    border-radius: 20px;
+}
+.imagem3{
+    border-radius: 20px;
+}
+.imagem4{
+    border-radius: 20px;
+}
+.imagem5{
+    border-radius: 20px;
+}
+.imagem6{
+    border-radius: 20px;
+}
+.imagem1:hover{
+    
+    -webkit-transform: scale(1.01);
+    transform: scale(1.01); 
+}
+
+.imagem1{
+    transition: all 0.6s;
+    cursor: pointer;
+}
+
+.imagem2:hover{
+    
+    -webkit-transform: scale(1.01);
+    transform: scale(1.01); 
+}
+
+.imagem2{
+    transition: all 0.6s;
+    cursor: pointer;
+}
+
+.imagem3:hover{
+    
+    -webkit-transform: scale(1.01);
+    transform: scale(1.01); 
+}
+
+.imagem3{
+    transition: all 0.6s;
+    cursor: pointer;
+}
+
+.imagem4:hover{
+    
+    -webkit-transform: scale(1.01);
+    transform: scale(1.01); 
+}
+
+.imagem4{
+    transition: all 0.6s;
+    cursor: pointer;
+}
+
+.imagem5:hover{
+    
+    -webkit-transform: scale(1.01);
+    transform: scale(1.01); 
+}
+
+.imagem5{
+    transition: all 0.6s;
+    cursor: pointer;
+}
+
+.imagem6:hover{
+    
+    -webkit-transform: scale(1.01);
+    transform: scale(1.01); 
+}
+
+.imagem6{
+    transition: all 0.6s;
+    cursor: pointer;
+}
+
+.imagem7{
+    transition: all 0.6s;
+    cursor: pointer;
+}
+
+.imagem7:hover{
+    
+    -webkit-transform: scale(1.05);
+    transform: scale(1.05); 
+}
+
+.imagem8{
+    transition: all 0.6s;
+    cursor: pointer;
+}
+
+.imagem8:hover{
+    
+    -webkit-transform: scale(1.05);
+    transform: scale(1.05); 
+}
+
+.imagem9{
+    transition: all 0.6s;
+    cursor: pointer;
+}
+
+.imagem9:hover{
+    
+    -webkit-transform: scale(1.05);
+    transform: scale(1.05); 
+}
